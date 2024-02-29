@@ -7,7 +7,7 @@
 - Email: renuka.nival@gmail.com 📧
 - LinkedIn: https://www.linkedin.com/in/renuka-nival-797225231 🔗
 - GitHub: https://github.com/RenukaN-com 🐙
-- Portfolio Website: https://github.com/Kartik-com/Portfolio.git 🌐
+- Portfolio Website:  https://github.com/RenukaN-com/Portfolio/blob/main/README.md🌐
 
 ---
 
